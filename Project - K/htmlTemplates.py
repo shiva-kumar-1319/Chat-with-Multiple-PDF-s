@@ -23,6 +23,7 @@ css = '''
   padding: 0 1.5rem;
   color: #fff;
 }
+</style>
 '''
 
 bot_template = '''

@@ -103,13 +103,6 @@ Never commit `.env` or access tokens.
 
 Suggested next improvements: display source citations, add OCR, create retrieval-quality fixtures, and introduce a persistent per-user document store.
 
-## Interview discussion prompts
-
-- Why must document chunks and questions share the same embedding space?
-- How would you evaluate retrieval independently from answer generation?
-- What changes when the document collection persists across users?
-- Where do citations, authorization, and observability fit in this design?
-
 ## License
 
 Educational and portfolio use.

@@ -1,0 +1,14 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local configuration and Streamlit state
+.env
+.streamlit/secrets.toml
+
+# Build and test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
